@@ -1,5 +1,5 @@
 var scenarioArray = [
-    'barren and riddled with famine. Locusts and an onslaught of other invasive bugs eat the majority of the world\'s food and foliage.',
+    'What to Watch When You’re Stuck at Home',
     'in the past. Dinosaurs have come back. They rule the land, sky, sea, and air. Being outside is incredibly dangerous as humans are no longer at the top of the food chain.',
     'time traveling. Time rewinds 100 years each consecutive week, and humanity is thrust backward into the past.',
     'rainy and dark. There is no sun.',
