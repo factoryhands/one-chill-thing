@@ -47,6 +47,12 @@ header button.link-out:hover {
   border-color: blue;
 }
 
+header button.link-out:focus {
+  color: white;
+  background-color: blue;
+  border-color: blue;
+}
+
 header button.link-out:before {
   content: "";
   position: absolute;
